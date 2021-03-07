@@ -1,12 +1,6 @@
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 # Sitecore Hackathon 2021
 
-- MUST READ: **[Submission requirements](SUBMISSION_REQUIREMENTS.md)**
-- [Entry form template](ENTRYFORM.md)
-- [Starter kit instructions](STARTERKIT_INSTRUCTIONS.md)
-  
-
-
 # Documentation
 
 ## Team name: SitecoreInsiders
@@ -14,8 +8,8 @@
 ## Category: The best enhancement to SXA
 
 ## Enhacement description
-•	This module has the purpose of automatically resizing images through the Image Dimensions field in order to serve the image with the same sizes
-•	This feature solves the problem of loading to the client the image with a size and weight unnecessary, decreasing the performance of the page.
+This module has the purpose of automatically resizing images through the Image Dimensions field in order to serve the image with the same sizes
+This feature solves the problem of loading to the client the image with a size and weight unnecessary, decreasing the performance of the page.
 
 ## Technical description
 The technical approach was divided in multiple sections:
