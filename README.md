@@ -40,8 +40,13 @@ In order to use this feature you need to:
 To use this feature we have two buttons, one on the Experience Editor ribbon and the other on the image component itself, these same buttons have different behaviors.
 The following button on the ribbon will re-image all the images on the respective page
 
+Example 1:
 ![img1](https://github.com/Sitecore-Hackathon/2021-SitecoreInsiders/blob/main/docs/images/button%20ribbon.png "Example 1")
+
+Example 2:
 ![img2](https://github.com/Sitecore-Hackathon/2021-SitecoreInsiders/blob/main/docs/images/button%20rendering%20component.png "Example 2")
+
+Example 3:
 ![img3](https://github.com/Sitecore-Hackathon/2021-SitecoreInsiders/blob/main/docs/images/message%20alert.png "Example 3")
 
 ## Video Link (Replace with video link)
