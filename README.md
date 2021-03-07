@@ -25,7 +25,7 @@ The technical approach was divided in multiple sections:
 - Sitecore Experience Accelerator (SXA)
 
 ## Installation instructions
-To install the FitCropper all you need to do is to use the Sitecore Installation wizard to install the provided [package](../blob/master/LICENSE)
+To install the FitCropper all you need to do is to use the Sitecore Installation wizard to install the provided [package](/)
 ## Usage instructions:
 In order to use this feature you need to:
 1.	Open the Experience Editor
