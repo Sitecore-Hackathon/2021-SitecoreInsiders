@@ -25,7 +25,7 @@ The technical approach was divided in multiple sections:
 - Sitecore Experience Accelerator (SXA)
 
 ## Installation instructions
-To install the FitCropper all you need to do is to use the Sitecore Installation wizard to install the provided [package](/SitecoreInsiders%20FitCropper-1.0.0.zip)
+To install the FitCropper all you need to do is to use the Sitecore Installation wizard to install the provided [package](/SitecoreInsiders%20FitCropper-1.0.1.zip)
 ## Usage instructions:
 In order to use this feature you need to:
 1.	Open the Experience Editor
@@ -47,6 +47,3 @@ Example 2:
 
 Example 3:
 ![img3](https://github.com/Sitecore-Hackathon/2021-SitecoreInsiders/blob/main/docs/images/message%20alert.png "Example 3")
-
-## Video Link
-[Youtube link](https://www.youtube.com/watch?v=umwbyOuirwQ&ab_channel=Kagool "Youtube Link")
