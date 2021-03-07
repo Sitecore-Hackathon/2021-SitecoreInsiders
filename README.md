@@ -48,4 +48,5 @@ Example 2:
 Example 3:
 ![img3](https://github.com/Sitecore-Hackathon/2021-SitecoreInsiders/blob/main/docs/images/message%20alert.png "Example 3")
 
-## Video Link (Replace with video link)
+## Video Link
+[Youtube link](https://www.youtube.com/watch?v=umwbyOuirwQ&ab_channel=Kagool "Youtube Link")
