@@ -1,9 +1,11 @@
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 # Sitecore Hackathon 2021 - FitCropper Documentation
 
-## Team name: SitecoreInsiders
+## Team name: 
+SitecoreInsiders
 
-## Category: The best enhancement to SXA
+## Category: 
+The best enhancement to SXA
 
 ## Enhacement description
 
