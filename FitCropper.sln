@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{739DC126-8C17-49C8-BB66-889567558810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreInsiders.Feature.FitCropper", "src\Feature\SitecoreInsiders.Feature.FitCropper\SitecoreInsiders.Feature.FitCropper.csproj", "{CD184ADB-EF02-4568-9EF9-D9DD7609D629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD184ADB-EF02-4568-9EF9-D9DD7609D629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD184ADB-EF02-4568-9EF9-D9DD7609D629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD184ADB-EF02-4568-9EF9-D9DD7609D629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD184ADB-EF02-4568-9EF9-D9DD7609D629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD184ADB-EF02-4568-9EF9-D9DD7609D629} = {739DC126-8C17-49C8-BB66-889567558810}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B26FAE-64B4-4DB0-93DD-C542F02DDFF4}
+	EndGlobalSection
+EndGlobal
